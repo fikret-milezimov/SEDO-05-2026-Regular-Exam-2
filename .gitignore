@@ -51,6 +51,3 @@ Migrations/*.Snapshot.cs
 .DS_Store
 Thumbs.db
 
-## Secrets
-appsettings.*.json
-secrets.json
